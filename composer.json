@@ -1,5 +1,5 @@
 {
-    "name": "xeroapi/xero-php-oauth2",
+    "name": "arthur-crm/xero-php-custom",
     "description": "Xero official PHP SDK for oAuth2 generated with OpenAPI spec 3",
     "keywords": [
         "openapispec",
@@ -9,7 +9,7 @@
         "rest",
         "api"
     ],
-    "homepage": "https://github.com/xeroapi/xero-php-oauth2",
+    "homepage": "https://github.com/arthur-crm/xero-php-custom",
     "license": "MIT",
     "authors": [
         {
